@@ -1,0 +1,5 @@
+Run what project located in /home/nodev/what with Android Studio.
+
+adb pull /sdcard/Android/data/com.example.what/files/test.pcm
+
+pcm -> wav

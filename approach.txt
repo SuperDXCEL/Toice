@@ -1,0 +1,40 @@
+CIBERGU 2026
+infoceei@ceeiguadalajara.es
+
+TOICE
+
+App to protect vulnerable citizens from scam calls
+using AI-generated voices and social engineering.
+
+First step:
+
+Incoming call risk scoring. Known contacts pass through.
+Unknown numbers trigger full analysis pipeline.
+
+Second step:
+
+Analyze the caller's voice for synthetic speech detection.
+(RawNetLite)
+
+Third step:
+
+Real-time speech to text and LLM analysis to detect
+social engineering patterns and scam language.
+(Whisper + LLM)
+
+Fourth step:
+
+Compare caller's voice against stored family voiceprints,
+built progressively from previous calls.
+(ECAPA-TDNN)
+
+Fifth step:
+
+Guardian notified in real time with risk level,
+live transcription, and one-tap hang up option.
+
+All processing runs on-device or private server.
+Zero data sent to third parties. Full GDPR compliance.
+
+Target: families with elderly or vulnerable members.
+"Hiya protects businesses. Toice protects families."
