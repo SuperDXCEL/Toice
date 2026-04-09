@@ -4,3 +4,4 @@ accelerate==0.29.3
 bitsandbytes==0.43.1
 websockets
 scipy
+fast_whisper
