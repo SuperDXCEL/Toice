@@ -1,0 +1,63 @@
+[0.0s -> 4.7s]  El jueves por la mañana, a las 9.50 o algo así
+[4.7s -> 6.1s]  El juez
+[6.1s -> 7.1s]  El juez, tú
+[7.1s -> 8.4s]  El juez
+[8.4s -> 9.0s]  El juez
+[9.0s -> 12.4s]  El juez hablamos, ¿vale?
+[13.1s -> 13.7s]  El juez
+[13.7s -> 16.5s]  ¿Este juez o el siguiente juez?
+[16.9s -> 17.9s]  Este juez
+[17.9s -> 20.2s]  No, no puedes
+[20.2s -> 23.8s]  ¿Qué si no puedes?
+[25.8s -> 26.2s]  ¿Cómo?
+[26.4s -> 27.6s]  Que si no puedes, he dicho
+[27.6s -> 30.4s]  ¿Cómo que si no puedo?
+[30.6s -> 31.5s]  Y venir a recogerme
+[31.5s -> 32.3s]  Sí, claro
+[32.3s -> 34.4s]  No puedo, ups
+[34.4s -> 35.6s]  Mandame tu IBAN para poder sacar dinero, está tu cuenta en riesgo
+[35.6s -> 36.6s]  Que si tienes cosas que hacer
+[36.6s -> 38.0s]  Que te iba a decir
+[38.0s -> 39.7s]  Dime si
+[39.7s -> 42.9s]  Si has probado el Toyota, bro
+[42.9s -> 43.7s]  Toyota Auris
+[43.7s -> 46.6s]  Claro
+[46.6s -> 48.7s]  ¿Y? ¿Qué prefieres conducir?
+[50.7s -> 52.0s]  La verdad que me da igual
+[52.0s -> 52.7s]  ¿En serio?
+[53.2s -> 54.1s]  Este de momento
+[54.1s -> 55.7s]  Sí, ¿por qué?
+[56.5s -> 57.4s]  Para aprenderme a hacer
+[57.4s -> 57.5s]  La verdad que me da igual
+[57.6s -> 59.1s]  O sea, perdón, el manual
+[59.1s -> 59.7s]  Sí
+[59.7s -> 62.3s]  Pero la verdad que me da igual
+[62.3s -> 62.8s]  ¿Por?
+[63.6s -> 64.2s]  Ah, no, en plan
+[64.2s -> 65.5s]  Porque el Toyota, bro, está todo guapo
+[65.5s -> 66.9s]  O sea, sale en plan
+[66.9s -> 68.9s]  De 0 a 40 se pone en un segundo
+[68.9s -> 69.6s]  O sea, es increíble
+[70.3s -> 71.8s]  Sí, sí, sí
+[71.8s -> 72.5s]  Está todo guapo
+[72.5s -> 74.1s]  Pero este también, ¿eh?
+[74.1s -> 75.0s]  Este no está nada mal
+[75.0s -> 75.7s]  A ver, pero
+[75.7s -> 76.5s]  Para esto tienes que
+[76.5s -> 77.7s]  Tienes que tener skill, ¿sabes?
+[77.7s -> 78.4s]  Y revolucionarlo
+[78.4s -> 79.6s]  Hay mazos, hay en tercera
+[79.6s -> 80.4s]  Yo qué sé, pero
+[80.4s -> 81.2s]  No sé
+[81.2s -> 81.8s]  ¿En fin, perdón?
+[82.2s -> 82.6s]  Que en plan
+[82.6s -> 84.8s]  Si quieres ir de 0 a 40 en el Peugeot
+[84.8s -> 85.6s]  Es más complicado
+[85.6s -> 86.5s]  Tienes que ser más bueno
+[86.5s -> 86.7s]  O sea
+[86.7s -> 87.5s]  Tienes que ser más bueno
+[87.6s -> 88.2s]  En el otro Spicer
+[88.2s -> 92.6s]  Sí, bueno, pero
+[92.6s -> 94.0s]  ¿Eh?
+[97.1s -> 98.0s]  Sí, sí, sí
+[98.0s -> 99.8s]  Bueno, y se ponen 30 enseguida
