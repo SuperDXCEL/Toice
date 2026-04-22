@@ -13,13 +13,15 @@ from heuristic_approach import heuristic_system
 ssl_context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
 ssl_context.load_cert_chain(certfile="cert.pem", keyfile="key.pem")
 
-model = WhisperModel("large-v3", device="cuda", compute_type="float16")
+model = WhisperModel("tiny", device="cpu", compute_type="int8")
 score = 0
 full_text = ""
 starting_timestamp_of_convo = time.time()
 
 def handle_array(websocket):
     for message in websocket:
+        if type(message) == str:
+            print("STRING?")
         # print("Byte String ", message)
         np_array = np.frombuffer(message, dtype=np.int16)
         # print(np_array)

@@ -35,9 +35,9 @@ def heuristic_system(full_text, curr_text, score, start_timestamp_of_convo, webs
     """
     print("CURRENT score: ", score)
     print("SECONDS ELAPSED: ", time.time() - start_timestamp_of_convo)
-    if score > 3 and score < 5 and time.time() - start_timestamp_of_convo > 60:
+    if score > 2 and score < 4 and time.time() - start_timestamp_of_convo > 60:
         score = second_layer(full_text, score)
-    elif score > 5:
+    elif score > 4:
         score = sound_alarm(score, websocket)
     else:
         score = first_layer(curr_text, score)
